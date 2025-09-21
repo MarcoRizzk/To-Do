@@ -1,8 +1,5 @@
 # To-Do List App with User Authentication
 
-
-### 🚀 Requirements
-
 #### 1. Functionality
 - Users can **register** with name, email, password, and phone.
 - Users can **log in** and **log out** securely.
